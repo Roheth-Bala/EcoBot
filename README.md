@@ -30,3 +30,18 @@ This helps in navigating through maze-like environments efficiently.
 real-time through a camera feed from the end effector. Once the object is detected, the
 robotic arm is set to pick up the objects and place them in specified bins that are
 provided
+
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/poker-ai.git
+cd EcoBot
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the simulation with:
+
+python GarbageCollector.py
